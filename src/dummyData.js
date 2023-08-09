@@ -44,7 +44,7 @@ const dummyData = [
   {
     id: 4,
     propertyName: "Charming Cottage",
-    propertyType: "House",
+    propertyType: "Cottage",
     price: 1800,
     bedrooms: 2,
     bathrooms: 1,
@@ -71,8 +71,8 @@ const dummyData = [
   },
   {
     id: 6,
-    propertyName: "Elegant Townhouse",
-    propertyType: "Townhouse",
+    propertyName: "Elegant Condo",
+    propertyType: "Condo",
     price: 2800,
     bedrooms: 3,
     bathrooms: 2.5,
@@ -99,8 +99,8 @@ const dummyData = [
   },
   {
     id: 8,
-    propertyName: "Urban Loft",
-    propertyType: "Loft",
+    propertyName: "Urban House",
+    propertyType: "House",
     price: 1500,
     bedrooms: 1,
     bathrooms: 1,
@@ -113,7 +113,7 @@ const dummyData = [
   },
   {
     id: 9,
-    propertyName: "Lakeview Villa",
+    propertyName: "Lakeview House",
     propertyType: "House",
     price: 3800,
     bedrooms: 4,
@@ -141,7 +141,7 @@ const dummyData = [
   },
   {
     id: 11,
-    propertyName: "Quaint Bungalow",
+    propertyName: "Quaint House",
     propertyType: "House",
     price: 1700,
     bedrooms: 3,
@@ -183,8 +183,8 @@ const dummyData = [
   },
   {
     id: 14,
-    propertyName: "Downtown Duplex",
-    propertyType: "Duplex",
+    propertyName: "Downtown Condo",
+    propertyType: "Condo",
     price: 2800,
     bedrooms: 4,
     bathrooms: 2,
@@ -211,8 +211,8 @@ const dummyData = [
   },
   {
     id: 16,
-    propertyName: "Mountain View Cabin",
-    propertyType: "Cabin",
+    propertyName: "Mountain View Condo",
+    propertyType: "Condo",
     price: 1600,
     bedrooms: 2,
     bathrooms: 1,
@@ -405,7 +405,7 @@ const dummyData = [
   },
   {
     id: 30,
-    propertyName: "Charming Chicago Loft",
+    propertyName: "Charming Chicago House",
     propertyType: "House",
     price: 2000,
     bedrooms: 1,
@@ -434,7 +434,7 @@ const dummyData = [
   {
     id: 32,
     propertyName: "Luxury Waterfront Condo",
-    propertyType: "Condominium",
+    propertyType: "Condo",
     price: 4500,
     bedrooms: 3,
     bathrooms: 3,
